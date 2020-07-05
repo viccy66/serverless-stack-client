@@ -17,7 +17,7 @@ const dev = {
 };
 
 const prod = {
-  STRIPE_KEY: "YOUR_STRIPE_PROD_PUBLIC_KEY",
+  STRIPE_KEY: "pk_test_RnMKtb4a1zhvvIyNzdQuISs9",
   s3: {
     REGION: "eu-west-1",
     BUCKET: "notes-app-2-api-prod-attachmentsbucket-12lkgasr9q920"
