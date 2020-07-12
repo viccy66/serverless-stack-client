@@ -57,6 +57,7 @@ console.log("########### Notes : ", notes);
     );
   }
 
+  /*
   function renderLander() {
     return (
       <div className="lander">
@@ -70,6 +71,14 @@ console.log("########### Notes : ", notes);
             Signup
           </Link>
         </div>
+      </div>
+    );
+  }*/
+
+  function renderLander() {
+    return (
+      <div className="lander">
+        <h1>Hello from laoviland site serverless.</h1>
       </div>
     );
   }
