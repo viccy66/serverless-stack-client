@@ -5,7 +5,7 @@ import { onError } from "../libs/errorLib";
 import "./Home.css";
 import { API } from "aws-amplify";
 import { LinkContainer } from "react-router-bootstrap";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
 
 export default function Home() {
