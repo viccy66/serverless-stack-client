@@ -14,6 +14,7 @@ function App() {
   const [isAuthenticating, setIsAuthenticating] = useState(true);
   const history = useHistory();
 
+console.log("_____________App_____________");
   useEffect(() => {
     onLoad();
   }, []);
